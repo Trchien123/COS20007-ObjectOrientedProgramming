@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:ihaveinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\advancedcollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\advancedcollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\fastmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\fastmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\highjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\highjump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\icollectstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\icollectstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\imovementstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\normalcollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\normalcollect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\normaljump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\normaljump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\normalmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\normalmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\singletondesign\\clocksingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:singletondesign\\clocksingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\strategydesign\\ijumpstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:strategydesign\\ijumpstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\observersdesign\\swordunlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:observersdesign\\swordunlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\observersdesign\\swordobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:observersdesign\\swordobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\observersdesign\\scoreobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:observersdesign\\scoreobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\observersdesign\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:observersdesign\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\observersdesign\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:observersdesign\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\observersdesign\\highjumpunlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:observersdesign\\highjumpunlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\observersdesign\\fastmovementunlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:observersdesign\\fastmovementunlocked.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameobjects\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameobjects\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameobjects\\speedpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameobjects\\speedpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameobjects\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameobjects\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameobjects\\jumppotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameobjects\\jumppotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameobjects\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameobjects\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameobjects\\drawableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameobjects\\drawableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gameobjects\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gameobjects\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gamehandler\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gamehandler\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gamehandler\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gamehandler\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\gamehandler\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:gamehandler\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\command\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:command\\lookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:command\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|c:\\users\\pc\\desktop\\cos20007\\customproject\\customproject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B82E26-455E-43F6-B296-0D8926A997A3}|CustomProject.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Uni\\CustomProject - Copy - Copy\\junglemap.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAxwMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:23:08.643Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMovementStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\IMovementStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\IMovementStrategy.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\IMovementStrategy.cs",
+              "RelativeToolTip": "StrategyDesign\\IMovementStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:50:35.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICollectStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\ICollectStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\ICollectStrategy.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\ICollectStrategy.cs",
+              "RelativeToolTip": "StrategyDesign\\ICollectStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:50:27.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HighJump.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\HighJump.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\HighJump.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\HighJump.cs",
+              "RelativeToolTip": "StrategyDesign\\HighJump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:08:40.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FastMovement.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\FastMovement.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\FastMovement.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\FastMovement.cs",
+              "RelativeToolTip": "StrategyDesign\\FastMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:04:17.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdvancedCollect.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\AdvancedCollect.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\AdvancedCollect.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\AdvancedCollect.cs",
+              "RelativeToolTip": "StrategyDesign\\AdvancedCollect.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:51:32.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHaveInventory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\IHaveInventory.cs",
+              "RelativeDocumentMoniker": "IHaveInventory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\IHaveInventory.cs",
+              "RelativeToolTip": "IHaveInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:51:06.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:14:45.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "IdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\IdentifiableObject.cs",
+              "RelativeToolTip": "IdentifiableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:51:02.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameProcessor.cs",
+              "RelativeDocumentMoniker": "GameProcessor.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameProcessor.cs",
+              "RelativeToolTip": "GameProcessor.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAAAOIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:49:09.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NormalCollect.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\NormalCollect.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\NormalCollect.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\NormalCollect.cs",
+              "RelativeToolTip": "StrategyDesign\\NormalCollect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:50:38.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NormalJump.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\NormalJump.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\NormalJump.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\NormalJump.cs",
+              "RelativeToolTip": "StrategyDesign\\NormalJump.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:09:41.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NormalMovement.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\NormalMovement.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\NormalMovement.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\NormalMovement.cs",
+              "RelativeToolTip": "StrategyDesign\\NormalMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T10:07:13.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameMap.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameMap.cs",
+              "RelativeDocumentMoniker": "GameMap.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameMap.cs",
+              "RelativeToolTip": "GameMap.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:28:42.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClockSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\SingletonDesign\\ClockSingleton.cs",
+              "RelativeDocumentMoniker": "SingletonDesign\\ClockSingleton.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\SingletonDesign\\ClockSingleton.cs",
+              "RelativeToolTip": "SingletonDesign\\ClockSingleton.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T07:05:49.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IJumpStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\IJumpStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyDesign\\IJumpStrategy.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\StrategyDesign\\IJumpStrategy.cs",
+              "RelativeToolTip": "StrategyDesign\\IJumpStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:50:31.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SwordUnlocked.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\SwordUnlocked.cs",
+              "RelativeDocumentMoniker": "ObserversDesign\\SwordUnlocked.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\SwordUnlocked.cs",
+              "RelativeToolTip": "ObserversDesign\\SwordUnlocked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:44:30.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SwordObserver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\SwordObserver.cs",
+              "RelativeDocumentMoniker": "ObserversDesign\\SwordObserver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\SwordObserver.cs",
+              "RelativeToolTip": "ObserversDesign\\SwordObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:44:38.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScoreObserver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\ScoreObserver.cs",
+              "RelativeDocumentMoniker": "ObserversDesign\\ScoreObserver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\ScoreObserver.cs",
+              "RelativeToolTip": "ObserversDesign\\ScoreObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:44:42.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\ISubject.cs",
+              "RelativeDocumentMoniker": "ObserversDesign\\ISubject.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\ISubject.cs",
+              "RelativeToolTip": "ObserversDesign\\ISubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:45:07.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\IObserver.cs",
+              "RelativeDocumentMoniker": "ObserversDesign\\IObserver.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\IObserver.cs",
+              "RelativeToolTip": "ObserversDesign\\IObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:45:11.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HighJumpUnlocked.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\HighJumpUnlocked.cs",
+              "RelativeDocumentMoniker": "ObserversDesign\\HighJumpUnlocked.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\HighJumpUnlocked.cs",
+              "RelativeToolTip": "ObserversDesign\\HighJumpUnlocked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:23:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FastMovementUnlocked.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\FastMovementUnlocked.cs",
+              "RelativeDocumentMoniker": "ObserversDesign\\FastMovementUnlocked.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\ObserversDesign\\FastMovementUnlocked.cs",
+              "RelativeToolTip": "ObserversDesign\\FastMovementUnlocked.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:57:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Sword.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Sword.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Sword.cs",
+              "RelativeToolTip": "GameObjects\\Sword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:46:05.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpeedPotion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\SpeedPotion.cs",
+              "RelativeDocumentMoniker": "GameObjects\\SpeedPotion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\SpeedPotion.cs",
+              "RelativeToolTip": "GameObjects\\SpeedPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:26:45.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Land.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Land.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Land.cs",
+              "RelativeToolTip": "GameObjects\\Land.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:45:55.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JumpPotion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\JumpPotion.cs",
+              "RelativeDocumentMoniker": "GameObjects\\JumpPotion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\JumpPotion.cs",
+              "RelativeToolTip": "GameObjects\\JumpPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:15:21.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Gold.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Gold.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Gold.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Gold.cs",
+              "RelativeToolTip": "GameObjects\\Gold.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:45:37.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DrawableObject.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\DrawableObject.cs",
+              "RelativeDocumentMoniker": "GameObjects\\DrawableObject.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\DrawableObject.cs",
+              "RelativeToolTip": "GameObjects\\DrawableObject.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:45:27.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Bomb.cs",
+              "RelativeDocumentMoniker": "GameObjects\\Bomb.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameObjects\\Bomb.cs",
+              "RelativeToolTip": "GameObjects\\Bomb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:45:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameHandler\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "GameHandler\\CollisionHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameHandler\\CollisionHandler.cs",
+              "RelativeToolTip": "GameHandler\\CollisionHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:40:58.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CameraHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameHandler\\CameraHandler.cs",
+              "RelativeDocumentMoniker": "GameHandler\\CameraHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameHandler\\CameraHandler.cs",
+              "RelativeToolTip": "GameHandler\\CameraHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:40:18.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AnimationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameHandler\\AnimationHandler.cs",
+              "RelativeDocumentMoniker": "GameHandler\\AnimationHandler.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\GameHandler\\AnimationHandler.cs",
+              "RelativeToolTip": "GameHandler\\AnimationHandler.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:40:35.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Command\\LookCommand.cs",
+              "RelativeDocumentMoniker": "Command\\LookCommand.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Command\\LookCommand.cs",
+              "RelativeToolTip": "Command\\LookCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:46:32.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Command\\Command.cs",
+              "RelativeDocumentMoniker": "Command\\Command.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Command\\Command.cs",
+              "RelativeToolTip": "Command\\Command.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:46:36.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\CustomProject\\CustomProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T06:51:18.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "junglemap.txt",
+              "DocumentMoniker": "E:\\Uni\\CustomProject - Copy - Copy\\junglemap.txt",
+              "ToolTip": "E:\\Uni\\CustomProject - Copy - Copy\\junglemap.txt",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-25T06:26:00.367Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

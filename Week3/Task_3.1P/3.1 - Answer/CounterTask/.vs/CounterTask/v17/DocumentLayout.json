@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\COS20007\\Week_3\\3.1P\\3.1 - Answer\\CounterTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|c:\\users\\pc\\desktop\\cos20007\\week_3\\3.1p\\3.1 - answer\\countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|c:\\users\\pc\\desktop\\cos20007\\week_3\\3.1p\\3.1 - answer\\countertask\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|solutionrelative:clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|c:\\users\\pc\\desktop\\cos20007\\week_3\\3.1p\\3.1 - answer\\countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|solutionrelative:counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_3\\3.1P\\3.1 - Answer\\CounterTask\\Clock.cs",
+              "RelativeDocumentMoniker": "Clock.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_3\\3.1P\\3.1 - Answer\\CounterTask\\Clock.cs",
+              "RelativeToolTip": "Clock.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:55:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_3\\3.1P\\3.1 - Answer\\CounterTask\\Counter.cs",
+              "RelativeDocumentMoniker": "Counter.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_3\\3.1P\\3.1 - Answer\\CounterTask\\Counter.cs",
+              "RelativeToolTip": "Counter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:32:04.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_3\\3.1P\\3.1 - Answer\\CounterTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_3\\3.1P\\3.1 - Answer\\CounterTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:31:43.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

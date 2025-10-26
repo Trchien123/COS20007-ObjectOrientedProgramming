@@ -1,0 +1,70 @@
+E:\Uni\COS20007\Projects\CustomProject\bin\Debug\net8.0\CustomProject.exe
+E:\Uni\COS20007\Projects\CustomProject\bin\Debug\net8.0\CustomProject.deps.json
+E:\Uni\COS20007\Projects\CustomProject\bin\Debug\net8.0\CustomProject.runtimeconfig.json
+E:\Uni\COS20007\Projects\CustomProject\bin\Debug\net8.0\CustomProject.dll
+E:\Uni\COS20007\Projects\CustomProject\bin\Debug\net8.0\CustomProject.pdb
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\CustomProject.AssemblyInfoInputs.cache
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\CustomProject.AssemblyInfo.cs
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\CustomProject.csproj.CoreCompileInputs.cache
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\CustomProject.dll
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\refint\CustomProject.dll
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\CustomProject.pdb
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\CustomProject.genruntimeconfig.cache
+E:\Uni\COS20007\Projects\CustomProject\obj\Debug\net8.0\ref\CustomProject.dll
+E:\Uni\CustomProject\bin\Debug\net8.0\CustomProject.exe
+E:\Uni\CustomProject\bin\Debug\net8.0\CustomProject.deps.json
+E:\Uni\CustomProject\bin\Debug\net8.0\CustomProject.runtimeconfig.json
+E:\Uni\CustomProject\bin\Debug\net8.0\CustomProject.dll
+E:\Uni\CustomProject\bin\Debug\net8.0\CustomProject.pdb
+E:\Uni\CustomProject\obj\Debug\net8.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\CustomProject\obj\Debug\net8.0\CustomProject.AssemblyInfoInputs.cache
+E:\Uni\CustomProject\obj\Debug\net8.0\CustomProject.AssemblyInfo.cs
+E:\Uni\CustomProject\obj\Debug\net8.0\CustomProject.csproj.CoreCompileInputs.cache
+E:\Uni\CustomProject\obj\Debug\net8.0\CustomProject.dll
+E:\Uni\CustomProject\obj\Debug\net8.0\refint\CustomProject.dll
+E:\Uni\CustomProject\obj\Debug\net8.0\CustomProject.pdb
+E:\Uni\CustomProject\obj\Debug\net8.0\CustomProject.genruntimeconfig.cache
+E:\Uni\CustomProject\obj\Debug\net8.0\ref\CustomProject.dll
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\CustomProject.AssemblyInfoInputs.cache
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\CustomProject.AssemblyInfo.cs
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\CustomProject.csproj.CoreCompileInputs.cache
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\CustomProject.dll
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\refint\CustomProject.dll
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\CustomProject.pdb
+E:\Uni\CustomProject - Copy\bin\Debug\net8.0\CustomProject.exe
+E:\Uni\CustomProject - Copy\bin\Debug\net8.0\CustomProject.deps.json
+E:\Uni\CustomProject - Copy\bin\Debug\net8.0\CustomProject.runtimeconfig.json
+E:\Uni\CustomProject - Copy\bin\Debug\net8.0\CustomProject.dll
+E:\Uni\CustomProject - Copy\bin\Debug\net8.0\CustomProject.pdb
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\CustomProject.genruntimeconfig.cache
+E:\Uni\CustomProject - Copy\obj\Debug\net8.0\ref\CustomProject.dll
+E:\Uni\CustomProject - Copy - Copy\bin\Debug\net8.0\CustomProject.exe
+E:\Uni\CustomProject - Copy - Copy\bin\Debug\net8.0\CustomProject.deps.json
+E:\Uni\CustomProject - Copy - Copy\bin\Debug\net8.0\CustomProject.runtimeconfig.json
+E:\Uni\CustomProject - Copy - Copy\bin\Debug\net8.0\CustomProject.dll
+E:\Uni\CustomProject - Copy - Copy\bin\Debug\net8.0\CustomProject.pdb
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\CustomProject.AssemblyInfoInputs.cache
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\CustomProject.AssemblyInfo.cs
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\CustomProject.csproj.CoreCompileInputs.cache
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\CustomProject.dll
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\refint\CustomProject.dll
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\CustomProject.pdb
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\CustomProject.genruntimeconfig.cache
+E:\Uni\CustomProject - Copy - Copy\obj\Debug\net8.0\ref\CustomProject.dll
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\bin\Debug\net8.0\CustomProject.exe
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\bin\Debug\net8.0\CustomProject.deps.json
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\bin\Debug\net8.0\CustomProject.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\bin\Debug\net8.0\CustomProject.dll
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\bin\Debug\net8.0\CustomProject.pdb
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\CustomProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\CustomProject.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\CustomProject.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\CustomProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\CustomProject.dll
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\refint\CustomProject.dll
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\CustomProject.pdb
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\CustomProject.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\CustomProject\CustomProject\obj\Debug\net8.0\ref\CustomProject.dll

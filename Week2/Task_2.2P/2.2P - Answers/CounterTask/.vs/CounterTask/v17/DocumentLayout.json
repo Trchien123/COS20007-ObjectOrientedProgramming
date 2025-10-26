@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\COS20007\\Week_2\\2.2P - Answers\\CounterTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|c:\\users\\pc\\desktop\\cos20007\\week_2\\2.2p - answers\\countertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|c:\\users\\pc\\desktop\\cos20007\\week_2\\2.2p - answers\\countertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F4BFA6A-3A04-4D53-80D6-F4ADEBE2A07F}|CounterTask.csproj|solutionrelative:counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_2\\2.2P - Answers\\CounterTask\\Counter.cs",
+              "RelativeDocumentMoniker": "Counter.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_2\\2.2P - Answers\\CounterTask\\Counter.cs",
+              "RelativeToolTip": "Counter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:32:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_2\\2.2P - Answers\\CounterTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_2\\2.2P - Answers\\CounterTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:31:43.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

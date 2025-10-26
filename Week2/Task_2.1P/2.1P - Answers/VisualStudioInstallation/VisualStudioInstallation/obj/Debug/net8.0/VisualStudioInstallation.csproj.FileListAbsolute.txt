@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\bin\Debug\net8.0\VisualStudioInstallation.exe
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\bin\Debug\net8.0\VisualStudioInstallation.deps.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\bin\Debug\net8.0\VisualStudioInstallation.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\bin\Debug\net8.0\VisualStudioInstallation.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\bin\Debug\net8.0\VisualStudioInstallation.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\VisualStudioInstallation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\VisualStudioInstallation.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\VisualStudioInstallation.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\VisualStudioInstallation.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\VisualStudioInstallation.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\refint\VisualStudioInstallation.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\VisualStudioInstallation.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\VisualStudioInstallation.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.1 - Answers\VisualStudioInstallation\VisualStudioInstallation\obj\Debug\net8.0\ref\VisualStudioInstallation.dll

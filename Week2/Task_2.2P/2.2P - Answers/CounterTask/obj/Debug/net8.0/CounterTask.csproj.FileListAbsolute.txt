@@ -1,0 +1,28 @@
+E:\Uni\COS20007\Projects\CounterTask\bin\Debug\net8.0\CounterTask.exe
+E:\Uni\COS20007\Projects\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+E:\Uni\COS20007\Projects\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+E:\Uni\COS20007\Projects\CounterTask\bin\Debug\net8.0\CounterTask.dll
+E:\Uni\COS20007\Projects\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\CounterTask.dll
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+E:\Uni\COS20007\Projects\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\bin\Debug\net8.0\CounterTask.exe
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\bin\Debug\net8.0\CounterTask.deps.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\bin\Debug\net8.0\CounterTask.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\bin\Debug\net8.0\CounterTask.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\bin\Debug\net8.0\CounterTask.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\CounterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\CounterTask.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\CounterTask.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\CounterTask.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\refint\CounterTask.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\CounterTask.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\CounterTask.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\CounterTask\obj\Debug\net8.0\ref\CounterTask.dll

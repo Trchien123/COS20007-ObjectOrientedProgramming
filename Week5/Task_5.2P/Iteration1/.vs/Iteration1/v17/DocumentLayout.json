@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\Iteration1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC09302-0387-406A-A160-0D8F63975608}|Iteration1.csproj|c:\\users\\pc\\desktop\\cos20007\\week_5\\5.2p\\iteration1\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC09302-0387-406A-A160-0D8F63975608}|Iteration1.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC09302-0387-406A-A160-0D8F63975608}|Iteration1.csproj|c:\\users\\pc\\desktop\\cos20007\\week_5\\5.2p\\iteration1\\bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC09302-0387-406A-A160-0D8F63975608}|Iteration1.csproj|solutionrelative:bag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6ED85-DA20-4723-A9C3-F85FBE2E80F7}|..\\BagUnitTests\\BagUnitTests.csproj|c:\\users\\pc\\desktop\\cos20007\\week_5\\5.2p\\bagunittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EC09302-0387-406A-A160-0D8F63975608}|Iteration1.csproj|c:\\users\\pc\\desktop\\cos20007\\week_5\\5.2p\\iteration1\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EC09302-0387-406A-A160-0D8F63975608}|Iteration1.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\BagUnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BagUnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\BagUnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BagUnitTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:35:09.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\Iteration1\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\Iteration1\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:33:19.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\Iteration1\\Item.cs",
+              "RelativeDocumentMoniker": "Item.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\Iteration1\\Item.cs",
+              "RelativeToolTip": "Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:30:01.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bag.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\Iteration1\\Bag.cs",
+              "RelativeDocumentMoniker": "Bag.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_5\\5.2P\\Iteration1\\Bag.cs",
+              "RelativeToolTip": "Bag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T11:31:00.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

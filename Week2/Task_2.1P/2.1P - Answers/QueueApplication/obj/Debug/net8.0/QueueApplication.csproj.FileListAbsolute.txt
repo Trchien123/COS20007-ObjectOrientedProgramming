@@ -1,0 +1,28 @@
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\QueueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfoInputs.cache
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfo.cs
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\QueueApplication.csproj.CoreCompileInputs.cache
+C:\Uni\COS20007\Projects\QueueApplication\bin\Debug\net8.0\QueueApplication.exe
+C:\Uni\COS20007\Projects\QueueApplication\bin\Debug\net8.0\QueueApplication.deps.json
+C:\Uni\COS20007\Projects\QueueApplication\bin\Debug\net8.0\QueueApplication.runtimeconfig.json
+C:\Uni\COS20007\Projects\QueueApplication\bin\Debug\net8.0\QueueApplication.dll
+C:\Uni\COS20007\Projects\QueueApplication\bin\Debug\net8.0\QueueApplication.pdb
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\QueueApplication.dll
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\refint\QueueApplication.dll
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\QueueApplication.pdb
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\QueueApplication.genruntimeconfig.cache
+C:\Uni\COS20007\Projects\QueueApplication\obj\Debug\net8.0\ref\QueueApplication.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\bin\Debug\net8.0\QueueApplication.exe
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\bin\Debug\net8.0\QueueApplication.deps.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\bin\Debug\net8.0\QueueApplication.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\bin\Debug\net8.0\QueueApplication.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\bin\Debug\net8.0\QueueApplication.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\QueueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\QueueApplication.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\QueueApplication.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\refint\QueueApplication.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\QueueApplication.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\QueueApplication.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.2P - Answers\QueueApplication\obj\Debug\net8.0\ref\QueueApplication.dll

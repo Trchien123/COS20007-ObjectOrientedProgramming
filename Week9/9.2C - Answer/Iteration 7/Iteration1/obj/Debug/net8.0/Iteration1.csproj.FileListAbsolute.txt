@@ -1,0 +1,147 @@
+E:\Uni\COS20007\Projects\Iteration1\bin\Debug\net8.0\Iteration1.exe
+E:\Uni\COS20007\Projects\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+E:\Uni\COS20007\Projects\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+E:\Uni\COS20007\Projects\Iteration1\bin\Debug\net8.0\Iteration1.dll
+E:\Uni\COS20007\Projects\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\Iteration1.dll
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+E:\Uni\COS20007\Projects\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_5\5.2P\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\bin\Debug\net8.0\PowerArgs.dll
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COS20007\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.csproj.Up2Date
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\bin\Debug\net8.0\PowerArgs.dll
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.csproj.Up2Date
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_6\Iteration_4\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\bin\Debug\net8.0\PowerArgs.dll
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.csproj.Up2Date
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Iteration 5\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\bin\Debug\net8.0\PowerArgs.dll
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.csproj.Up2Date
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Iteration 6\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\bin\Debug\net8.0\PowerArgs.dll
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.Up2Date
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Iteration 7\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\bin\Debug\net8.0\PowerArgs.dll
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.Up2Date
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_9\Iteration 7\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\bin\Debug\net8.0\PowerArgs.dll
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.csproj.Up2Date
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_9\9.2C - Answer\Iteration 7\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll

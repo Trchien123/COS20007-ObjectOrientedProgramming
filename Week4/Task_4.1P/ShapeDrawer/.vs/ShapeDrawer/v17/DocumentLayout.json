@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|c:\\users\\pc\\desktop\\cos20007\\week_4\\4.1p\\shapedrawer\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|c:\\users\\pc\\desktop\\cos20007\\week_4\\4.1p\\shapedrawer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|c:\\users\\pc\\desktop\\cos20007\\week_4\\4.1p\\shapedrawer\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|c:\\users\\pc\\desktop\\cos20007\\week_4\\4.1p\\shapedrawer\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|c:\\users\\pc\\desktop\\cos20007\\week_4\\4.1p\\shapedrawer\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|c:\\users\\pc\\desktop\\cos20007\\week_4\\4.1p\\shapedrawer\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE5AB19-159F-4C2B-A55E-14839C48D156}|ShapeDrawer.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:11:32.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:42:46.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T03:36:39.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:59:16.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:30:54.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Week_4\\4.1P\\ShapeDrawer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwFYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:29:22.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

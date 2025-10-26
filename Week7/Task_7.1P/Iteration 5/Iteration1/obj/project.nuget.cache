@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3AfV2E89FCuXwjKDTM0quC/SwotRxx2qpCSTm7OcH41RQzZZ1CbSEaE3Z9I9wlAjkqtiKtay8OfStIdYd27HbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\COS20007\\Week_7\\7.1P\\Iteration 5\\Iteration1\\Iteration1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\powerargs\\4.0.3\\powerargs.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

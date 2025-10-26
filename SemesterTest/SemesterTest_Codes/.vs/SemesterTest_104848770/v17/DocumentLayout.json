@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|c:\\users\\pc\\desktop\\cos20007\\semester test\\semestertest_104848770\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|solutionrelative:thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|c:\\users\\pc\\desktop\\cos20007\\semester test\\semestertest_104848770\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|c:\\users\\pc\\desktop\\cos20007\\semester test\\semestertest_104848770\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|solutionrelative:folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|c:\\users\\pc\\desktop\\cos20007\\semester test\\semestertest_104848770\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|solutionrelative:filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|c:\\users\\pc\\desktop\\cos20007\\semester test\\semestertest_104848770\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED695F7E-7ADA-412D-B7D3-2011B20D1772}|SemesterTest_104848770.csproj|solutionrelative:file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\FileSystem.cs",
+              "RelativeDocumentMoniker": "FileSystem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\FileSystem.cs",
+              "RelativeToolTip": "FileSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:12:42.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\File.cs",
+              "RelativeDocumentMoniker": "File.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\File.cs",
+              "RelativeToolTip": "File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:03:17.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\Folder.cs",
+              "RelativeDocumentMoniker": "Folder.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\Folder.cs",
+              "RelativeToolTip": "Folder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:51:43.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\Thing.cs",
+              "RelativeDocumentMoniker": "Thing.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\Thing.cs",
+              "RelativeToolTip": "Thing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:48:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\COS20007\\Semester Test\\SemesterTest_104848770\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T14:48:22.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

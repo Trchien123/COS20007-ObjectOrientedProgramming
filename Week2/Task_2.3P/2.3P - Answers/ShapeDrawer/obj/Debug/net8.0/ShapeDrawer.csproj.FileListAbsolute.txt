@@ -1,0 +1,28 @@
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+E:\Uni\COS20007\Projects\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+E:\Uni\COS20007\Projects\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+E:\Uni\COS20007\Projects\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+E:\Uni\COS20007\Projects\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+E:\Uni\COS20007\Projects\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+E:\Uni\COS20007\Projects\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\Users\PC\Desktop\COS20007\Week_2\2.3P - Answers\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll
